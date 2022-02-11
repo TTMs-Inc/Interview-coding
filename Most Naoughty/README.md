@@ -2,18 +2,18 @@
 
 **Write a program that can tell the principal both the least and the most naughty candidate in the list.**
 
-Input
+**Input**
 
 1. N – number of entries in the list
 2. For each I in N
    - a. Name of the candidate
 
-Output
+**Output**
 
 1. Most Naughty candidate’s name
 2. Least Naughty candidate’s name
    
-Example
+**Example**
 
 N – 10
 + Neil
@@ -27,7 +27,7 @@ N – 10
 + John
 + KT
 
-Output
+**Output**
 
 + Most naughty – KT
 + Least naughty - Jack
