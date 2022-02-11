@@ -6,8 +6,8 @@ Input
 
 1. N – number of entries in the list
 2. For each I in N
-   a. Name of the candidate
-   
+   - a. Name of the candidate
+
 Output
 
 1. Most Naughty candidate’s name
