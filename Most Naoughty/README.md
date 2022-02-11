@@ -16,16 +16,16 @@ Output
 Example
 
 N – 10
-Neil
-John
-Shilpa
-Neil
-KT
-Jack
-Shilpa
-KT
-John
-KT
++ Neil
++ John
++ Shilpa
++ Neil
++ KT
++ Jack
++ Shilpa
++ KT
++ John
++ KT
 
 Output
 
