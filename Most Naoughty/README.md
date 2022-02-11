@@ -29,5 +29,5 @@ N – 10
 
 Output
 
-Most naughty – KT
-Least naughty - Jack
++ Most naughty – KT
++ Least naughty - Jack
